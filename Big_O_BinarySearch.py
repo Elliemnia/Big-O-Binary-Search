@@ -20,5 +20,4 @@ if __name__=='__main__':
 
 # calculate the time complexity of binary search
     time_complexity = math.log2(n)
-
     print(f"The time complexity of binary search on an array of size {n} is O(log n) = {time_complexity}")
